@@ -13,10 +13,10 @@ Digimatic	KEYWORD1
 #######################################
 
 fetch	KEYWORD2
-units_mm KEYWORD2
-units_in KEYWORD2
-decimal_places KEYWORD2
-looptime KEYWORD2
+units_mm	KEYWORD2
+units_in	KEYWORD2
+decimal_places	KEYWORD2
+looptime	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
